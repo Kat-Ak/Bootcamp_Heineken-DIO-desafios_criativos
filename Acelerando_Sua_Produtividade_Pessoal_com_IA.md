@@ -4,6 +4,8 @@
 
 Parte de um Desafio Criativo de Projeto desenvolvido no Bootcamp Heineken — Inteligência Artificial Aplicada a Vendas (DIO).
 
+Este documento registra a construção do prompt, o resultado obtido com a IA e os principais aprendizados do exercício.
+
 ---
 
 ## 🧩 Construção Passo a Passo
@@ -19,7 +21,7 @@ Quero que a IA gere um cronograma dinâmico de planejamento diário e um roteiro
 
 ---
 
-## 🤖 Resposta Gerada pela IA (Roteiro Validado)
+## 🤖 Resposta Gerada pela IA
 
 ### Plano de Produtividade do Vendedor de Alta Performance (Foco em Sell-In)
 
@@ -40,6 +42,6 @@ Quero que a IA gere um cronograma dinâmico de planejamento diário e um roteiro
 
 ## 🧠 Aprendizado
 
-**Substituição de Atividades Administrativas:** A inteligência artificial se provou um excelente catalisador de tempo, absorvendo tarefas repetitivas de redação e organização que afastavam o profissional da sua atividade-fim: vender.
+**Substituição de Atividades Administrativas:** O exercício demonstrou como a IA pode apoiar a organização de atividades repetitivas, como estruturação de textos e consolidação de informações, permitindo que o profissional concentre mais tempo em atividades de maior valor estratégico.
 
-**Automação de Baixo Custo:** Aprendi que técnicas simples de engenharia de prompt aliadas a recursos nativos gratuitos dos smartphones (como transcrição por voz) conseguem criar fluxos de trabalho hiperprodutivos sem demandar orçamentos de tecnologia de grandes empresas.
+**Automação de Baixo Custo:** O desafio mostrou que recursos gratuitos, como transcrição por voz e prompts bem estruturados, já permitem criar fluxos de trabalho mais organizados, sem necessidade de soluções complexas ou investimentos elevados.
