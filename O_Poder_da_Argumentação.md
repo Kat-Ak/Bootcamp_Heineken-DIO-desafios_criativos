@@ -36,6 +36,6 @@ Quero que a IA gere um guia de argumentação e engajamento comercial voltado pa
 
 ## 🧠 Aprendizado
 
-**Cultura de Vendas Descentralizada:** O exercício evidenciou que a argumentação comercial não é restrita ao cargo de vendedor. Qualquer colaborador que interaja com o ecossistema do cliente pode se tornar um gerador de oportunidades (leads) altamente qualificados através de observações simples.
+**Cultura de Vendas Descentralizada:** O exercício evidenciou que a argumentação comercial não é restrita ao cargo de vendedor. Qualquer colaborador que interaja com o ecossistema do cliente pode se tornar um identificador de oportunidades (leads) mais qualificados através de observações simples.
 
 **Simplicidade Operacional:** Direcionar restrições à IA evitou roteiros mirabolantes e invasivos para os entregadores, permitindo criar falas orgânicas, rápidas e baseadas na rotina real e colaborativa de campo.
