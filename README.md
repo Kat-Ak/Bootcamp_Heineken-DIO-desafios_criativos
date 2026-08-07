@@ -48,15 +48,12 @@ Todos os prompts táticos desenvolvidos nos desafios de produtividade e argument
 ---
 
 ## 🎓 Aprendizados Gerais do Portfólio
-*   **Contextualização Restritiva:** Iniciar instruções delimitando o cenário comercial impede respostas genéricas e alinha a IA com as reais dores de campo do vendedor de bebidas.
-  
-*   **Cultura de Vendas Descentralizada:** Ferramentas de IA de bolso podem apoiar a capacitação rápida de agentes de logística na coleta estruturada de informações de mercado no PDV sem sobrecarga operacional.
 
----
+**Importância do contexto:** Quanto mais específico e restritivo é o prompt, mais alinhadas as respostas da IA ficam às necessidades reais do problema.
 
-## 🌱 Aprendizado Pessoal
+**Engenharia de Prompts como processo:** A construção em etapas (intenção, contexto e unificação) produz resultados mais consistentes e reutilizáveis do que elaborar um único prompt de forma direta.
 
-O desenvolvimento destes desafios reforçou a importância da contextualização na Engenharia de Prompts. Ao longo das atividades, ficou evidente que instruções específicas, restrições bem definidas e objetivos claros resultam em respostas mais úteis, consistentes e aplicáveis a situações reais.
+**IA aplicada ao contexto de negócios:** Os desafios demonstraram como a IA pode apoiar produtividade, comunicação e tomada de decisão em diferentes situações do ambiente comercial, desde a organização de rotinas até a criação de argumentos de vendas e apoio operacional.
 
 ---
 
