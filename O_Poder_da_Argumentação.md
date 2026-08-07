@@ -4,6 +4,8 @@
 
 Parte de um Desafio Criativo de Projeto desenvolvido no Bootcamp Heineken — Inteligência Artificial Aplicada a Vendas (DIO).
 
+Este documento registra a construção do prompt, o resultado obtido com a IA e os principais aprendizados do exercício.
+
 ---
 
 ## 🧩 Construção Passo a Passo
@@ -19,7 +21,7 @@ Quero que a IA gere um guia de argumentação e engajamento comercial voltado pa
 
 ---
 
-## 🤖 Resposta Gerada pela IA (Roteiro Validado)
+## 🤖 Resposta Gerada pela IA
 
 ### Microguia de Inteligência de Campo (Equipe de Suporte e Entrega)
 
