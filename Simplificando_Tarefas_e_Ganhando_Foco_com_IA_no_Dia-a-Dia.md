@@ -36,8 +36,8 @@ Quero que a IA gere um roteiro de abordagem comercial rápida para a equipe de v
 
 **Alinhamento de Áreas (Marketing e Vendas):** O projeto demonstrou como a inteligência artificial pode atuar como uma ferramenta de *Sales Enablement*, traduzindo uma necessidade estratégica do marketing em uma solução prática e ágil para o vendedor de rua.
 
-**Engenharia de Prompts com Foco Comercial:** Aprendi a importância de aplicar restrições precisas à IA. Sem diretrizes claras, o modelo tende a gerar soluções idealistas (como sugerir displays adicionais ou facilidades comerciais) que divergem da estratégia de alocação de recursos da operação.
+**Engenharia de Prompts com Foco Comercial:** Aprendi a importância de aplicar restrições precisas à IA. Sem diretrizes claras, o modelo tende a gerar soluções soluções pouco aderentes à realidade operacional (como sugerir displays adicionais ou facilidades comerciais) que divergem da estratégia de alocação de recursos da operação.
 
-**Refinamento Crítico de Negócios:** O processo de construção exigiu entender que argumentos genéricos (como estipular volumes fixos ou tratar itens em maturação de mercado como se fossem novidades absolutas) reduzem a eficácia das vendas consultivas. O prompt final provou que a IA só gera valor estratégico quando direcionada a acelerar a distribuição e a visibilidade de produtos que já fazem parte do portfólio, mas que ainda possuem grande potencial de expansão.
+**Refinamento Crítico de Negócios:** O processo de construção exigiu entender que argumentos genéricos (como estipular volumes fixos ou tratar itens em maturação de mercado como se fossem novidades absolutas) reduzem a eficácia das vendas consultivas. O prompt final mostrou que a IA só gera valor estratégico quando direcionada a acelerar a distribuição e a visibilidade de produtos que já fazem parte do portfólio, mas que ainda possuem grande potencial de expansão.
 
 </div>
