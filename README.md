@@ -54,8 +54,14 @@ Todos os prompts táticos desenvolvidos nos desafios de produtividade e argument
 
 ---
 
+## 🌱 Aprendizado Pessoal
+
+O desenvolvimento destes desafios reforçou a importância da contextualização na Engenharia de Prompts. Ao longo das atividades, ficou evidente que instruções específicas, restrições bem definidas e objetivos claros resultam em respostas mais úteis, consistentes e aplicáveis a situações reais.
+
+---
+
 ## ✨ Conclusão dos Desafios Criativos
 
-O desenvolvimento deste portfólio de Desafios Criativos consolidou a Inteligência Artificial não apenas como uma ferramenta de automação textual, mas como um motor estratégico de produtividade e engajamento. A Engenharia de Prompts aplicada evidenciou que a eficácia da IA de bolso depende de restrições severas de contexto. 
+O desenvolvimento deste portfólio de Desafios Criativos consolidou a Inteligência Artificial não apenas como uma ferramenta de automação textual, mas como um motor estratégico de produtividade e engajamento. A Engenharia de Prompts aplicada demonstrou que a eficácia da IA de bolso depende de restrições severas de contexto. 
 
-Ao estruturar roteiros que eliminam burocracias de pós-venda (Voice-to-CRM no Desafio 3) e descentralizar a argumentação comercial para as equipes de logística (Desafio 4), foi estruturada uma proposta de ecossistema onde todos os elos da cadeia B2B trabalham ativamente para a inteligência de gôndola. O resultado é a liberação de foco para o que realmente importa: a execução de campo e o relacionamento consultivo com o cliente.
+Ao estruturar roteiros que eliminam burocracias de pós-venda (Voice-to-CRM no Desafio 3) e descentralizar a argumentação comercial para as equipes de logística (Desafio 4), foi estruturada uma proposta de ecossistema onde todos os elos da cadeia B2B trabalham ativamente para a inteligência de gôndola. Como resultado esperado, o vendedor pode dedicar mais tempo à execução em campo e ao relacionamento consultivo com o cliente.
