@@ -50,7 +50,7 @@ Todos os prompts táticos desenvolvidos nos desafios de produtividade e argument
 ## 🎓 Aprendizados Gerais do Portfólio
 *   **Contextualização Restritiva:** Iniciar instruções delimitando o cenário comercial impede respostas genéricas e alinha a IA com as reais dores de campo do vendedor de bebidas.
   
-*   **Cultura de Vendas Descentralizada:** Ferramentas de IA de bolso tornam viável a capacitação expressa de agentes de logística para coletar dados ricos de mercado no PDV sem sobrecarga operacional.
+*   **Cultura de Vendas Descentralizada:** Ferramentas de IA de bolso podem apoiar a capacitação rápida de agentes de logística na coleta estruturada de informações de mercado no PDV sem sobrecarga operacional.
 
 ---
 
