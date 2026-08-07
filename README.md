@@ -3,7 +3,7 @@
 
 # 💡 Portfólio de Desafios Criativos e Soluções Estratégicas para o Canal Panificação
 
-Este repositório centraliza o desenvolvimento dos Desafios Criativos propostos no Bootcamp Heineken — Inteligência Artificial Aplicada a Vendas (DIO). O objetivo é demonstrar a aplicação prática de Engenharia de Prompts para otimização de rotinas diárias, produtividade pessoal de campo e engajamento comercial descentralizado na cadeia B2B.
+Este repositório centraliza o desenvolvimento dos Desafios Criativos propostos no Bootcamp Heineken — Inteligência Artificial Aplicada a Vendas (DIO). O objetivo é demonstrar a aplicação prática de Engenharia de Prompts para otimização de rotinas diárias, produtividade pessoal de campo e engajamento comercial descentralizado na cadeia B2B, por meio dos desafios propostos durante o bootcamp.
 
 ---
 
