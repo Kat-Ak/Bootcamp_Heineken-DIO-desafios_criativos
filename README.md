@@ -10,12 +10,12 @@ Este repositório centraliza o desenvolvimento dos Desafios Criativos propostos 
 ## 🧬 Estrutura do Repositório
 
 ```
-🧋 Bootcamp Heineken [IA Aplicada a Vendas] (linha de bebidas não alcoólicas em padarias)
+🧋 Bootcamp Heineken [IA Aplicada a Vendas (linha de bebidas não alcoólicas em padarias)]
    |
    └── 💡 Desafios Criativos | Prompts [Panificação]
           ├── 🪄 Desafio 1 | Simplificando Tarefas e Ganhando Foco com IA 💠
           ├── 🪄 Desafio 3 | Acelerando Sua Produtividade Pessoal com IA 🏃‍♂️
-          └── 🪄 Desafio 4 | Quem Não Vende, Ajuda a Vender! O Poder da Argumentação🗣️
+          └── 🪄 Desafio 4 | Quem Não Vende, Ajuda a Vender! O Poder da Argumentação 🗣️
 ```
 ---
 
